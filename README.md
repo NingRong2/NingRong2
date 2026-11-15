@@ -120,30 +120,6 @@ Baca Manga, Manhwa & Manhua Subtitle Indonesia — Platform pembaca komik gratis
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </td>
-<td width="50%" valign="top">
-
-#### 🏗️ Architecture
-
-```
-User → Cloudflare CDN/WAF
-         ↓
-    Proxy VPS (CF-only)
-         ↓
-    Docker (Contabo VPS)
-    ├── animexin (Next.js)
-    ├── nontonanime (Astro)
-    ├── panel-setting (Next.js)
-    ├── PostgreSQL
-    ├── Redis
-    └── Dockge (management)
-```
-
-- 🔒 Origin IP hidden from scanners
-- 🐳 All services containerized
-- 📊 Centralized config panel
-- ⚡ Edge caching + ISR
-
-</td>
 </tr>
 </table>
 
