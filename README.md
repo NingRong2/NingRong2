@@ -5,6 +5,7 @@
 **Full-Stack Developer** · API Architect · Streaming & Content Platform Specialist
 
 [![Website](https://img.shields.io/badge/🌐_Website-anichin.bio-4285F4?style=for-the-badge)](https://anichin.bio)
+[![AnimexIn](https://img.shields.io/badge/🎬_AnimeXin-animexin.art-16a34a?style=for-the-badge)](https://animexin.art)
 [![GitHub](https://img.shields.io/badge/GitHub-NingRong2-181717?style=for-the-badge&logo=github)](https://github.com/NingRong2)
 
 </div>
@@ -16,7 +17,7 @@
 - 🔭 Building **high-traffic streaming platforms** serving thousands of daily users
 - 🛠️ Specializing in **REST API design**, **SSR web apps**, and **CDN architecture**
 - 🌏 Based in Indonesia, creating content platforms for Indonesian audience
-- ⚡ Tech stack: **Astro SSR**, **Node.js**, **Go**, **Laravel**, **Cloudflare**
+- ⚡ Tech stack: **Next.js**, **Astro SSR**, **Node.js**, **Go**, **shadcn/ui**, **Cloudflare**
 
 ---
 
@@ -42,6 +43,25 @@ Unified REST + WebSocket API for **15 short drama sources** — DramaBox, ReelSh
 </td>
 <td width="50%" valign="top">
 
+#### 🐉 [AnimeXin](https://animexin.art)
+Nonton Donghua & Anime Sub Indo — Next.js streaming platform with shadcn/ui.
+
+- 🔗 [animexin.art](https://animexin.art)
+- 📺 1200+ Donghua & Anime series
+- 🎬 Multi-server player (VIP/Premium)
+- 🌙 Dark/Light mode + Mobile responsive
+- 🔒 Server-side proxy (zero source leak)
+- 📅 [Jadwal Rilis](https://animexin.art/schedule) · [Genre](https://animexin.art/genres)
+
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)
+![shadcn](https://img.shields.io/badge/shadcn/ui-Components-000000?style=flat-square)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### 📺 [NontonAnimeID](https://nontonanimeid.stream)
 Nonton Anime & Donghua Sub Indo — Streaming HD gratis. Full-featured anime platform.
 
@@ -56,8 +76,6 @@ Nonton Anime & Donghua Sub Indo — Streaming HD gratis. Full-featured anime pla
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 📖 [Mangaku](https://github.com/NingRong2/mangaku-baca-manga-sub-indo)
@@ -73,29 +91,57 @@ Baca Manga, Manhwa & Manhua Subtitle Indonesia — Platform pembaca komik gratis
 ![Manga](https://img.shields.io/badge/Manga-Reader-E91E63?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🛠️ Tech Stack
 
 **Frontend & SSR**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Backend & API**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 **Infrastructure**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏗️ Architecture
+
+```
+User → Cloudflare CDN/WAF
+         ↓
+    Proxy VPS (CF-only)
+         ↓
+    Docker (Contabo VPS)
+    ├── animexin (Next.js)
+    ├── nontonanime (Astro)
+    ├── panel-setting (Next.js)
+    ├── PostgreSQL
+    ├── Redis
+    └── Dockge (management)
+```
+
+- 🔒 Origin IP hidden from scanners
+- 🐳 All services containerized
+- 📊 Centralized config panel
+- ⚡ Edge caching + ISR
 
 </td>
 </tr>
@@ -120,6 +166,7 @@ Baca Manga, Manhwa & Manhua Subtitle Indonesia — Platform pembaca komik gratis
 <div align="center">
 
 [![Anichin](https://img.shields.io/badge/Anichin_API-anichin.bio-FF5722?style=for-the-badge)](https://anichin.bio)
+[![AnimeXin](https://img.shields.io/badge/AnimeXin-animexin.art-16a34a?style=for-the-badge)](https://animexin.art)
 [![NontonAnimeID](https://img.shields.io/badge/NontonAnimeID-Stream_Anime-4A90D9?style=for-the-badge)](https://nontonanimeid.stream)
 [![Mangaku](https://img.shields.io/badge/Mangaku-Baca_Manga-E91E63?style=for-the-badge)](https://mangaku.website)
 
