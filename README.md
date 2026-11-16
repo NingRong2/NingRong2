@@ -4,8 +4,9 @@
 
 **Full-Stack Developer** · API Architect · Streaming & Content Platform Specialist
 
-[![Website](https://img.shields.io/badge/🌐_Website-anichin.bio-4285F4?style=for-the-badge)](https://anichin.bio)
-[![AnimexIn](https://img.shields.io/badge/🎬_AnimeXin-animexin.art-16a34a?style=for-the-badge)](https://animexin.art)
+[![AnimeXin](https://img.shields.io/badge/🎬_AnimeXin-animexin.art-16a34a?style=for-the-badge)](https://animexin.art)
+[![Animeindo](https://img.shields.io/badge/📺_Animeindo-animeindo.my-3f51b5?style=for-the-badge)](https://animeindo.my)
+[![anoBoy](https://img.shields.io/badge/🎌_anoBoy-anoboy.im-2e51a2?style=for-the-badge)](https://anoboy.im)
 [![GitHub](https://img.shields.io/badge/GitHub-NingRong2-181717?style=for-the-badge&logo=github)](https://github.com/NingRong2)
 
 </div>
@@ -55,7 +56,43 @@ Nonton Donghua & Anime Sub Indo — Next.js streaming platform with shadcn/ui.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)
 ![shadcn](https://img.shields.io/badge/shadcn/ui-Components-000000?style=flat-square)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Score](https://img.shields.io/badge/Ubersuggest-94-brightgreen?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 📺 [Animeindo](https://animeindo.my)
+Nonton Streaming Anime Subtitle Indonesia — Platform anime sub Indo terlengkap.
+
+- 🔗 [animeindo.my](https://animeindo.my)
+- 📺 1200+ Anime & Donghua series
+- 🎬 Multi-server player with download
+- 🔍 Search + Genre filter + Schedule
+- 🔒 Image proxy (zero source leak)
+- 📅 [Jadwal](https://animeindo.my/jadwal) · [Genre](https://animeindo.my/genre) · [Anime List](https://animeindo.my/anime-list)
+
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Score](https://img.shields.io/badge/Ubersuggest-96-brightgreen?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🎌 [anoBoy](https://anoboy.im)
+Nonton & Download Anime Subtitle Indonesia — Dark/Light mode, genre dropdown.
+
+- 🔗 [anoboy.im](https://anoboy.im)
+- 📺 1200+ Anime & Donghua episodes
+- 🌓 Dark/Light mode toggle (B/W)
+- 🎬 Multi-server player
+- 📅 Schedule table + Genre dropdown
+- 🔒 Server-side image proxy
+
+![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)
+![Verdana](https://img.shields.io/badge/Font-Verdana-333?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-Deployed-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </td>
 </tr>
@@ -76,23 +113,6 @@ Nonton Anime & Donghua Sub Indo — Streaming HD gratis. Full-featured anime pla
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-CDN-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
-
-#### 📖 [Mangaku](https://github.com/NingRong2/mangaku-baca-manga-sub-indo)
-Baca Manga, Manhwa & Manhua Subtitle Indonesia — Platform pembaca komik gratis berkualitas HD.
-
-- 🔗 [mangaku.website](https://mangaku.website)
-- 📚 Koleksi manga, manhwa, manhua terlengkap
-- 🇮🇩 Full subtitle Indonesia
-- 📱 Responsive reader
-- 🔄 Update harian
-
-![Astro](https://img.shields.io/badge/Astro-SSR-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Manga](https://img.shields.io/badge/Manga-Reader-E91E63?style=flat-square)
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🛠️ Tech Stack
@@ -141,10 +161,11 @@ Baca Manga, Manhwa & Manhua Subtitle Indonesia — Platform pembaca komik gratis
 
 <div align="center">
 
-[![Anichin](https://img.shields.io/badge/Anichin_API-anichin.bio-FF5722?style=for-the-badge)](https://anichin.bio)
 [![AnimeXin](https://img.shields.io/badge/AnimeXin-animexin.art-16a34a?style=for-the-badge)](https://animexin.art)
+[![Animeindo](https://img.shields.io/badge/Animeindo-animeindo.my-3f51b5?style=for-the-badge)](https://animeindo.my)
+[![anoBoy](https://img.shields.io/badge/anoBoy-anoboy.im-2e51a2?style=for-the-badge)](https://anoboy.im)
 [![NontonAnimeID](https://img.shields.io/badge/NontonAnimeID-Stream_Anime-4A90D9?style=for-the-badge)](https://nontonanimeid.stream)
-[![Mangaku](https://img.shields.io/badge/Mangaku-Baca_Manga-E91E63?style=for-the-badge)](https://mangaku.website)
+[![Pinterest](https://img.shields.io/badge/Pinterest-Follow-E60023?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/ningrong2)
 
 </div>
 
