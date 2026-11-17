@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Ning RongRong</h1>
 
 <p align="center">
-  <em>Full-Stack Developer & Anime/Donghua Enthusiast from Indonesia 🇮🇩</em>
+  <em>Full-Stack Developer & Anime/Donghua Enthusiast from Konoha 🍥</em>
 </p>
 
 <p align="center">
