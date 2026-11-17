@@ -54,7 +54,7 @@
 ### 🔗 Links
 
 <p>
-  <a href="https://pinterest.com/ningrong2"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="https://pinterest.com/NingRongRong2"><img src="https://img.shields.io/badge/Pinterest-E60023?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
 </p>
 
 ---
