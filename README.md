@@ -15,12 +15,12 @@
 
 ### 🚀 Projects
 
-| Project | Domain | Description | Stack |
-|---------|--------|-------------|-------|
-| **Animeindo** | [animeindo.my](https://animeindo.my) | Nonton streaming anime subtitle Indonesia terlengkap | Next.js, Tailwind |
-| **AnimeXin** | [animexin.art](https://animexin.art) | Donghua & anime streaming sub Indo & English | Next.js, shadcn/ui |
-| **anoBoy** | [anoboy.im](https://anoboy.im) | Nonton anime sub Indo dengan dark/light mode | Next.js, Tailwind |
-| **NontonAnimeID** | [nontonanimeid.stream](https://nontonanimeid.stream) | Platform nonton anime streaming Indonesia | Astro SSR |
+| Project | Domain | Description | Stack | SEO Score |
+|---------|--------|-------------|-------|-----------|
+| **NontonAnimeID** | [nontonanimeid.stream](https://nontonanimeid.stream) | Platform nonton anime streaming Indonesia | Astro SSR | ![97](https://img.shields.io/badge/Ubersuggest-97-brightgreen?style=flat-square) |
+| **Animeindo** | [animeindo.my](https://animeindo.my) | Nonton streaming anime subtitle Indonesia terlengkap | Next.js, Tailwind | ![96](https://img.shields.io/badge/Ubersuggest-96-brightgreen?style=flat-square) |
+| **anoBoy** | [anoboy.im](https://anoboy.im) | Nonton anime sub Indo dengan dark/light mode | Next.js, Tailwind | ![96](https://img.shields.io/badge/Ubersuggest-96-brightgreen?style=flat-square) |
+| **AnimeXin** | [animexin.art](https://animexin.art) | Donghua & anime streaming sub Indo & English | Next.js, shadcn/ui | ![94](https://img.shields.io/badge/Ubersuggest-94-green?style=flat-square) |
 
 ---
 
